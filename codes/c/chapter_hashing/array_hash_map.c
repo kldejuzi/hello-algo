@@ -5,6 +5,10 @@
  */
 
 #include "../utils/common.h"
+#include <stdlib.h>
+#include <string.h>
+#include <stdio.h>
+
 
 /* 哈希表默认大小 */
 #define HASHTABLE_CAPACITY 100
